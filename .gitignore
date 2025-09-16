@@ -1,0 +1,5 @@
+# Ignore CodeQL custom queries folder
+codeql-custom-queries-javascript/
+
+# Ignore project static files folder
+perth-energy-static/
